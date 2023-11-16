@@ -13,6 +13,7 @@ void le_arquivo(FILE* nome_arquivo, ArvBin* raiz, Lista* li){
 
     }
 }
+/**/
 
 
 int main(){
