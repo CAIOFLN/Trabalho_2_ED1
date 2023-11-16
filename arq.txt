@@ -1,0 +1,14 @@
+BBBB1234
+1
+XPTO9876
+1
+ABCD0123
+0
+BIGB0666
+0
+x
+
+        BBBB1234
+
+   ABCD0123   XPTO9876
+            BIGB0666      
